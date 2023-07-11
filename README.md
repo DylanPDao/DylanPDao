@@ -1,3 +1,5 @@
+![github header](/profile.jpeg)
+
 ### Hi there, I'm Dylan 🤘
 
 ### 💬 About Me
