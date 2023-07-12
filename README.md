@@ -49,7 +49,7 @@ Hello! My name is Dylan, and I am a software engineer! I have a passion to help 
 
 #### 🤝 Let's Connect!
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Dylan Dao](https://www.linkedin.com/in/dylandao/)
+https://www.linkedin.com/in/dylandao/
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 dylanpdao@gmail.com
