@@ -48,8 +48,4 @@ Hello! My name is Dylan, and I am a software engineer! I have a passion to help 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 #### 🤝 Let's Connect!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[in/yousarahh/](https://www.linkedin.com/in/dylandao/)
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-dylanpdao@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdylandao%2F)
